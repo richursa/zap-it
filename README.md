@@ -3,4 +3,4 @@ ever wanted to send data over the internet or over wifi but afraid of neighbourh
 
 
 download zap-it_1.0_all.deb and install it using the command "sudo dpkg -i zap-it*.deb"
-then run the command "zapsend" on the pc from which file is to be sent and "zaprecv" on the pc where file is to be recived
+then run the command "zapsend" on the pc from which file is to be sent and "zaprecv" on the pc where file is to be recived if using linux !if other platforms run the source code 
